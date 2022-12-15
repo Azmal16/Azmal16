@@ -1,6 +1,6 @@
 - 👋 Hi there, this is Azmal Awasaf
 - 👀 I’m interested in Machine Learning and Mobile App Development
-- 🌱 I’m currently learning Swift and iOS development
+- 🌱 I’m currently learning Swift and SwiftUI
 
 <!---
 Azmal16/Azmal16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
