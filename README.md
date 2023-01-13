@@ -1,70 +1,24 @@
-![alt text](https://github.com/Azmal16/Images/blob/master/azmal_github_banner.png "SegmentedControl UI Demo")
+![alt text](https://github.com/Azmal16/Images/blob/master/azmal_github_banner.png "Azmal's GitHub Banner")
   
-### <div align="center">👋🏼 Hi there, nice to see you! <br> This is Azmal, a tech enthusiast. <br> Currently working with Machine Learning and iOS Development 👨🏻‍💻.</div>  
-
+### <div align="center">👋🏼 Hi there, nice to see you! <br> 🙋🏻‍♂️ This is Azmal, a Tech Enthusiast. <br>👨🏻‍💻 Currently working with Machine Learning and iOS Development.</div>  
 <div align="center">I am a technoid person passionate about AI and fascinating tech innovations. Studied Computer Science and Engineering at RUET.  Currently working as a Software Engineer (AI) at  MyMedicalHUB International Ltd. I love to learn and explore new technologies. Equally enthusiast in Machine Learning Research and Software Development. </div>  
-  
 
-- 👀 I’m interested in Machine Learning and Mobile App Development  
-  
+<br/>  
 
 - 👨🏻‍💻 I'm currently learning [Swift](https://github.com/Azmal16/swift-fundamentals) and [SwiftUI](https://github.com/Azmal16/iOS-Development-Basics)  
-  
-
-- ❓Ask me about AI and latest tech trends  
-  
-
-<br/>  
-
-
-### My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-#### Languages  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Frameworks and Others  
-<div align="center">  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td></tr></table>  
+- 🤔 I’m looking for help with free SwiftUI learning resources 
+- 💬 Ask me about AI and latest tech trends  
+- 😛 You can buy me coffee without my consent 
 
 <br/>  
 
+GitHub Stats             |  Used Languages
+:-------------------------:|:-------------------------:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azmal16&show_icons=true&theme=codeSTACKr)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azmal16&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-## Connect with me  
+
+<br/>  
+
 <div align="center">
 <a href="https://github.com/Azmal16" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -77,28 +31,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azmal16&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>  
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Azmal16&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
