@@ -5,12 +5,20 @@
 
 <br/>  
 
-- 👨🏻‍💻 I'm currently learning [Swift](https://github.com/Azmal16/swift-fundamentals) and [SwiftUI](https://github.com/Azmal16/iOS-Development-Basics)  
+<!-- - 👨🏻‍💻 I'm currently learning [Swift](https://github.com/Azmal16/swift-fundamentals) and [SwiftUI](https://github.com/Azmal16/iOS-Development-Basics)  
 - 🤔 I’m looking for help with free SwiftUI learning resources 
 - 💬 Ask me about AI and latest tech trends  
-- 😛 You can buy me coffee without my consent 
+- 😛 You can buy me coffee without my consent  -->
+<!-- 
+<br/>   -->
 
-<br/>  
+<div align="center"> 
+  👨🏻‍💻 I'm currently learning Swift and SwiftUI <br> 
+  🤔 I’m looking for help with free SwiftUI learning resources <br>
+  💬 Ask me about AI and latest tech trends <br>
+  😛 You can buy me coffee without my consent <br>
+</div>  
+ <br/>
 
 GitHub Stats             |  Used Languages
 :-------------------------:|:-------------------------:
