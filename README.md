@@ -14,9 +14,9 @@
 
 <div align="center"> 
   - 👨🏻‍💻 I'm currently learning Swift and SwiftUI <br> 
-  🤔 I’m looking for help with free SwiftUI learning resources <br>
-  💬 Ask me about AI and latest tech trends <br>
-  😛 You can buy me coffee without my consent <br>
+  - 🤔 I’m looking for help with free SwiftUI learning resources <br>
+  - 💬 Ask me about AI and latest tech trends <br>
+  - 😛 You can buy me coffee without my consent <br>
 </div>  
  <br/>
 
