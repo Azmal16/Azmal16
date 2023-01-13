@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Azmal16/Images/blob/master/azmal_github_banner.png "Azmal's GitHub Banner")
   
-### <div align="center">👋🏼 Hi there, nice to see you! <br> 🙋🏻‍♂️ This is Azmal, a Tech Enthusiast. <br>👨🏻‍💻 Currently working with Machine Learning and iOS Development.</div>  
+## <div align="center">👋🏼 Hi there, nice to see you! <br> 🙋🏻‍♂️ This is Azmal, a Tech Enthusiast. <br>👨🏻‍💻 Currently working with Machine Learning and iOS Development.</div>  
 <div align="center">I am a technoid person passionate about AI and fascinating tech innovations. Studied Computer Science and Engineering at RUET.  Currently working as a Software Engineer (AI) at  MyMedicalHUB International Ltd. I love to learn and explore new technologies. Equally enthusiast in Machine Learning Research and Software Development. </div>  
 
 <br/>  
@@ -13,7 +13,7 @@
 <br/>   -->
 
 <div align="center"> 
-  👨🏻‍💻 I'm currently learning Swift and SwiftUI <br> 
+  - 👨🏻‍💻 I'm currently learning Swift and SwiftUI <br> 
   🤔 I’m looking for help with free SwiftUI learning resources <br>
   💬 Ask me about AI and latest tech trends <br>
   😛 You can buy me coffee without my consent <br>
