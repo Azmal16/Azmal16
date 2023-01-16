@@ -21,7 +21,7 @@
 
 GitHub Stats             |  Used Languages
 :-------------------------:|:-------------------------:
-![Anurag's GitHub stats](https://github-readme-stats-7crm.vercel.app/api?username=Azmal16&show_icons=true&theme=codeSTACKr)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azmal16&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-7crm.vercel.app/api?username=Azmal16&show_icons=true&theme=codeSTACKr)  |  [![Top Langs](https://github-readme-stats-7crm.vercel.app/api/top-langs/?username=Azmal16&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
