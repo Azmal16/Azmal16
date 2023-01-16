@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Azmal16&&style=flat-square" align="center" />
-</div>  
 
-<br/>
 
 ![alt text](https://github.com/Azmal16/Images/blob/master/azmal_github_banner.png "Azmal's GitHub Banner")
   
@@ -18,13 +14,13 @@
   - 💬 Ask me about AI and latest Tech Trends <br>
   - ☕️ You can buy me Coffee without my consent! <br>
 </div>  
+
  <br/>
 
 GitHub Stats             |  Used Languages
 :-------------------------:|:-------------------------:
 ![Azmal's GitHub Stats](https://github-readme-stats-7crm.vercel.app/api?username=Azmal16&show_icons=true&theme=codeSTACKr)  |  [![Top Langs](https://github-readme-stats-7crm.vercel.app/api/top-langs/?username=Azmal16&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>  
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -60,4 +56,6 @@ GitHub Stats             |  Used Languages
 </a>
 </div>  
   
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Azmal16&&style=flat-square" align="center" />
+</div>  
