@@ -9,7 +9,7 @@
 <div align="center"> 
   - 👨🏻‍💻 I'm currently learning Swift and SwiftUI <br> 
   - 🤔 I’m looking for help with free SwiftUI learning resources <br>
-  - 💬 Ask me about AI and latest Tech Trends <br>
+  - 💬 <a href="mailto:azmalawasaf@gmail.com" target="_blank"> Ask me </a> about AI and latest Tech Trends <br>
   - ☕️ You can buy me Coffee without my consent! <br>
 </div>  
 
