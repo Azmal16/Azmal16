@@ -1,5 +1,3 @@
-
-
 ![alt text](https://github.com/Azmal16/Images/blob/master/azmal_github_banner.png "Azmal's GitHub Banner")
   
 ## <div align="center">👋🏼 Hi there, nice to see you! <br> 🙋🏻‍♂️ This is Azmal, a Tech Enthusiast <br>👨🏻‍💻 Currently working with Machine Learning and iOS Development</div>  
@@ -7,7 +5,6 @@
 <div align="center">I am a technoid person passionate about AI and fascinating tech innovations. Studied Computer Science and Engineering at <a href="https://www.ruet.ac.bd/" target="_blank">Rajshahi University of Engineering and Technology (RUET)</a>.  Currently working as a Software Engineer (AI) at <a href="https://www.linkedin.com/company/mymedicalhub/mycompany/" target="_blank">MyMedicalHUB International Ltd</a>. I love to learn and explore new technologies. Equally enthusiast in Machine Learning Research and Software Development. </div>  
 
 <br/>  
-
 
 <div align="center"> 
   - 👨🏻‍💻 I'm currently learning Swift and SwiftUI <br> 
@@ -21,7 +18,6 @@
 GitHub Stats             |  Used Languages
 :-------------------------:|:-------------------------:
 ![Azmal's GitHub Stats](https://github-readme-stats-7crm.vercel.app/api?username=Azmal16&show_icons=true&theme=codeSTACKr)  |  [![Top Langs](https://github-readme-stats-7crm.vercel.app/api/top-langs/?username=Azmal16&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -42,7 +38,6 @@ GitHub Stats             |  Used Languages
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
-
 
 <h3 align="center">Reach Me:</h3>
 <div align="center">
