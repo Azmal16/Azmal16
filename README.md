@@ -24,11 +24,21 @@ GitHub Stats             |  Used Languages
  
  <div align="center">
     <!-- github streak start -->
-    <img width=420 src="https://github-readme-stats-7crm.vercel.app/api?username=Azmal16&show_icons=true&theme=dark" alt="azmal" />
+    <img width=450 src="https://github-readme-stats-7crm.vercel.app/api?username=Azmal16&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="azmal" />
     <!-- github streak end -->
     <!-- github stats start -->
-    <img width=420 src="https://streak-stats.demolab.com?user=Azmal16&theme=dark" />
+    <img width=450 src="https://streak-stats.demolab.com?user=Azmal16&theme=dark&hide_border=true&count_private=true" />
     <!-- github stats end -->
+</div>
+ 
+ 
+ <div align="center">
+    <!-- github most used languages start -->
+    <img width=320  src="https://github-readme-stats-7crm.vercel.app/api/top-langs/?username=Azmal16&layout=compact&theme=dark&hide_border=true" />
+    <!-- github most used languages end -->
+    <!-- wakatime weekly activity start -->
+     <img width=580 src="https://github-readme-activity-graph.cyclic.app/graph?username=Azmal16&theme=xcode" />
+    <!-- wakatime weekly activity end -->
 </div>
  
  
