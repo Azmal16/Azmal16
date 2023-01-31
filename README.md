@@ -2,7 +2,7 @@
   
 ## <div align="center">👋🏼 Hi there, nice to see you! <br> 🙋🏻‍♂️ This is Azmal, a Tech Enthusiast <br>👨🏻‍💻 Currently working with Machine Learning and iOS Development</div>  
 
-<div align="center">I am a technoid person passionate about AI and fascinating tech innovations. Studied Computer Science and Engineering at <a href="https://www.ruet.ac.bd/" target="_blank">Rajshahi University of Engineering and Technology (RUET)</a>.  Currently working as a Software Engineer (AI) at <a href="https://www.linkedin.com/company/mymedicalhub/mycompany/" target="_blank">MyMedicalHUB International Ltd</a>. I love to learn and explore new technologies. Equally enthusiast in Machine Learning Research and Software Development. </div>  
+<div align="center">I am a technoid person passionate about AI and fascinating tech innovations. Studied Computer Science and Engineering at <a href="https://www.ruet.ac.bd/" target="_blank">Rajshahi University of Engineering and Technology (RUET)</a>.  Currently working with the AI Team at <a href="https://www.linkedin.com/company/mymedicalhub/mycompany/" target="_blank">MyMedicalHUB International Ltd</a>. I love to learn and explore new technologies. Equally enthusiast in Machine Learning Research and Software Development. </div>  
 
 <br/>  
 
@@ -15,10 +15,23 @@
 
 <br/>
 
+<!-- 
 GitHub Stats             |  Used Languages
 :-------------------------:|:-------------------------:
 ![Azmal's GitHub Stats](https://github-readme-stats-7crm.vercel.app/api?username=Azmal16&show_icons=true&theme=dark)  |  [![Top Langs](https://github-readme-stats-7crm.vercel.app/api/top-langs/?username=Azmal16&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
+ 
+ 
+ <div align="center">
+    <!-- github streak start -->
+    <img width=420 src="https://github-readme-stats-7crm.vercel.app/api?username=Azmal16&show_icons=true&theme=dark" alt="azmal" />
+    <!-- github streak end -->
+    <!-- github stats start -->
+    <img width=420 src="https://streak-stats.demolab.com?user=Azmal16&theme=dark" />
+    <!-- github stats end -->
+</div>
+ 
+ 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
