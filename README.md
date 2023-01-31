@@ -14,14 +14,8 @@
 </div>  
 
 <br/>
-
-<!-- 
-GitHub Stats             |  Used Languages
-:-------------------------:|:-------------------------:
-![Azmal's GitHub Stats](https://github-readme-stats-7crm.vercel.app/api?username=Azmal16&show_icons=true&theme=dark)  |  [![Top Langs](https://github-readme-stats-7crm.vercel.app/api/top-langs/?username=Azmal16&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- -->
  
- 
+ <h3 align="center"> GitHub Stats: </h3>
  <div align="center">
     <!-- github streak start -->
     <img width=420 src="https://github-readme-stats-7crm.vercel.app/api?username=Azmal16&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="azmal" />
@@ -30,8 +24,7 @@ GitHub Stats             |  Used Languages
     <img width=420 src="https://streak-stats.demolab.com?user=Azmal16&theme=dark&hide_border=true&count_private=true" />
     <!-- github stats end -->
 </div>
- 
- 
+
  <div align="center">
     <!-- github most used languages start -->
     <img width=315  src="https://github-readme-stats-7crm.vercel.app/api/top-langs/?username=Azmal16&layout=compact&theme=dark&hide_border=true" />
@@ -40,7 +33,6 @@ GitHub Stats             |  Used Languages
      <img width=525 src="https://github-readme-activity-graph.cyclic.app/graph?username=Azmal16&theme=xcode" />
     <!-- wakatime weekly activity end -->
 </div>
- 
  
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
