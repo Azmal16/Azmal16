@@ -27,7 +27,7 @@
 
  <div align="center">
     <!-- github most used languages start -->
-    <img width=315 height=200  src="https://github-readme-stats-7crm.vercel.app/api/top-langs/?username=Azmal16&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+    <img width=315  src="https://github-readme-stats-7crm.vercel.app/api/top-langs/?username=Azmal16&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
     <!-- github most used languages end -->
     <!-- wakatime weekly activity start -->
      <img width=525 src="https://github-readme-activity-graph.cyclic.app/graph?username=Azmal16&theme=elegant&bg_color=0D1117" />
