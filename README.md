@@ -2,15 +2,12 @@
   
 ## <div align="center">👋🏼 Hi there, nice to see you! </div>  
 
-<div align="center">I am a technoid person passionate about AI and fascinating tech innovations. Studied Computer Science and Engineering at <a href="https://www.ruet.ac.bd/" target="_blank">Rajshahi University of Engineering and Technology (RUET)</a>.  Currently working with the AI Team at <a href="https://www.linkedin.com/company/mymedicalhub/mycompany/" target="_blank">MyMedicalHUB International Ltd</a>. I love to learn and explore new technologies. Equally enthusiast in Machine Learning Research and Software Development. </div>  
-
 <br/>  
 
 <div align="center"> 
-  - 👨🏻‍💻 I'm currently learning Swift and SwiftUI <br> 
-  - 🤔 I’m looking for help with free SwiftUI learning resources <br>
-  - 💬 <a href="mailto:azmalawasaf@gmail.com" target="_blank"> Ask me </a> about AI and latest Tech Trends <br>
-  - ☕️ You can buy me Coffee without my consent! <br>
+  - Currently learning Swift and SwiftUI <br> 
+  - Looking for help with free SwiftUI learning resources <br>
+  - <a href="mailto:azmalawasaf@gmail.com" target="_blank"> Let's talk </a> about AI and latest Tech Trends <br>
 </div>  
 
 <br/>
